@@ -31,3 +31,6 @@
 <img src="https://raw.githubusercontent.com/RedstoneCoreDev/RedstoneCoreDev/snake-output/snake.svg" alt="Snake animation" />
 
 ###
+why it no work :(
+should be like CTRL + C, CTRL + V and magic! it works! but does not :(
+(i'll fix it some day)
