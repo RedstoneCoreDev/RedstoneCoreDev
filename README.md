@@ -22,7 +22,7 @@
 
 <div align="left">
   <a href="https://discord.com/users/1321921965811961909"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"/><a/>
-  <a href="redstonecoredev.github.io/boogle.html"><img src="https://raw.githubusercontent.com/RedstoneCoreDev/RedstoneCoreDev.github.io/main/img/boogle.png" alt="The Boogle Search page"/></a>
+  <a href="redstonecoredev.github.io/boogle.html"><img src="https://raw.githubusercontent.com/RedstoneCoreDev/RedstoneCoreDev.github.io/main/img/boogle.png" height="50" alt="The Boogle Search page"/></a>
 </div>
 
 ###
