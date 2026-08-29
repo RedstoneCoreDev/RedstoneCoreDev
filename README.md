@@ -3,13 +3,6 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/RedstoneCoreDev/RedstoneCoreDev/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/RedstoneCoreDev/RedstoneCoreDev/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <a href="redstonecoredev.github.io/boogle.html"><img src="https://raw.githubusercontent.com/RedstoneCoreDev/RedstoneCoreDev.github.io/main/img/boogle.png" height="50" alt="The Boogle Search page"/></a>
